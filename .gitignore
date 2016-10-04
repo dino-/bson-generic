@@ -1,1 +1,4 @@
 .stack-work
+
+# Vim swap files
+*.sw?
